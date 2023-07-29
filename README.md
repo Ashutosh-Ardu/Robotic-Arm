@@ -49,4 +49,4 @@ Info how it detects color: [Link](https://lastminuteengineers.com/tcs230-tcs3200
 
 
 ## Live Demonstration
-Youtube: https://www.youtube.com/watch?v=_b1U4GChWmM
+Youtube: https://youtu.be/JoD6c_ftK9o
