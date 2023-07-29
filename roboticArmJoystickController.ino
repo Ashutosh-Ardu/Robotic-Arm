@@ -14,7 +14,7 @@ int mode = 0;
 
 #define Joy_X A0
 #define Joy_Y A1
-#define btn 8
+#define btn 7
 int Joy_Val = 0;
 
 void setup()
